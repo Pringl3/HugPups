@@ -1,0 +1,50 @@
+[ 
+    { 
+        "name": "Tofu", 
+        "age": 4, 
+        "breed": "Mastiff", 
+        "temperament": "Calm, Gentle, Protective", 
+        "image_url": "https://images.pexels.com/photos/13867933/pexels-photo-13867933.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "available": "Available"
+    },
+    { 
+        "name": "Bella", 
+        "age": 3, 
+        "breed": "Golden Retriever", 
+        "temperament": "Friendly, Loyal, Playful", 
+        "image_url": "https://images.pexels.com/photos/220938/pexels-photo-220938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "available": "Available"
+    },
+    { 
+        "name": "Max", 
+        "age": 5, 
+        "breed": "Labrador Retriever", 
+        "temperament": "Affectionate, Energetic, Patient", 
+        "image_url": "data not provided, this will need to be replaced",
+        "available": "Available"
+    },
+    { 
+        "name": "Charlie", 
+        "age": 2, 
+        "breed": "Cocker Spaniel", 
+        "temperament": "Gentle, Loving, Alert", 
+        "image_url": "data not provided, this will need to be replaced",
+        "available": "Available"
+    },
+    { 
+        "name": "Lucy", 
+        "age": 6, 
+        "breed": "Bernese Mountain Dog", 
+        "temperament": "Calm, Patient, Affectionate", 
+        "image_url": "data not provided, this will need to be replaced",
+        "available": "Available"
+    },
+    { 
+        "name": "Daisy", 
+        "age": 4, 
+        "breed": "Cavalier King Charles Spaniel", 
+        "temperament": "Friendly, Quiet, Adaptable", 
+        "image_url": "data not provided, this will need to be replaced",
+        "available": "Available"
+    }
+]
