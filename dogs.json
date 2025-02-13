@@ -4,7 +4,7 @@
         "age": 4, 
         "breed": "Mastiff", 
         "temperament": "Calm, Gentle, Protective", 
-        "image_url": "https://images.pexels.com/photos/13867933/pexels-photo-13867933.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_url": "https://images.pexels.com/photos/12756410/pexels-photo-12756410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "available": "Available"
     },
     { 
@@ -12,7 +12,7 @@
         "age": 3, 
         "breed": "Golden Retriever", 
         "temperament": "Friendly, Loyal, Playful", 
-        "image_url": "https://images.pexels.com/photos/220938/pexels-photo-220938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_url": "https://images.pexels.com/photos/2759564/pexels-photo-2759564.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "available": "Available"
     },
     { 
@@ -20,7 +20,7 @@
         "age": 5, 
         "breed": "Labrador Retriever", 
         "temperament": "Affectionate, Energetic, Patient", 
-        "image_url": "data not provided, this will need to be replaced",
+        "image_url": "https://images.pexels.com/photos/3039080/pexels-photo-3039080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "available": "Available"
     },
     { 
@@ -28,7 +28,7 @@
         "age": 2, 
         "breed": "Cocker Spaniel", 
         "temperament": "Gentle, Loving, Alert", 
-        "image_url": "data not provided, this will need to be replaced",
+        "image_url": "https://images.pexels.com/photos/6342103/pexels-photo-6342103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "available": "Available"
     },
     { 
@@ -36,7 +36,7 @@
         "age": 6, 
         "breed": "Bernese Mountain Dog", 
         "temperament": "Calm, Patient, Affectionate", 
-        "image_url": "data not provided, this will need to be replaced",
+        "image_url": "https://images.pexels.com/photos/1458925/pexels-photo-1458925.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "available": "Available"
     },
     { 
@@ -44,7 +44,7 @@
         "age": 4, 
         "breed": "Cavalier King Charles Spaniel", 
         "temperament": "Friendly, Quiet, Adaptable", 
-        "image_url": "data not provided, this will need to be replaced",
+        "image_url": "https://images.pexels.com/photos/12180867/pexels-photo-12180867.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "available": "Available"
     }
 ]
